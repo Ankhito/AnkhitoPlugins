@@ -1,60 +1,71 @@
 [
-  {
-    "Author": "SekhmetAnkh",
-    "Name": "PositionalPilot",
-    "Punchline": "Assistive, safety-gated melee positional movement.",
-    "Description": "Suggests or safely moves toward selected combat-source rear/flank positionals using BossMod safety and vnavmesh when explicitly enabled. Off by default, fail-closed, and no stealth or bypass behavior.",
-    "InternalName": "PositionalPilot",
-    "AssemblyVersion": "0.1.30.0",
-    "RepoUrl": "https://github.com/SekhmetAnkh/PositionalPilot",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
-    "Tags": [
-      "combat",
-      "positional",
-      "accessibility"
-    ],
-    "CategoryTags": [
-      "jobs",
-      "utility"
-    ],
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadCount": 0,
-    "LastUpdate": 1780568737,
-    "DownloadLinkInstall": "https://github.com/SekhmetAnkh/PositionalPilot/releases/latest/download/PositionalPilot-latest.zip",
-    "DownloadLinkTesting": "https://github.com/SekhmetAnkh/PositionalPilot/releases/latest/download/PositionalPilot-latest.zip",
-    "DownloadLinkUpdate": "https://github.com/SekhmetAnkh/PositionalPilot/releases/latest/download/PositionalPilot-latest.zip"
-  },
-  {
-    "Author": "SekhmetAnkh",
-    "Name": "GBR Monster Hunter",
-    "Punchline": "Route to drop-only materials from crafting plans.",
-    "Description": "Listens to GatherBuddy Reborn/Vulcan execution plans, detects missing drop-only materials using Vulcan/GatherBuddy mob-drop locations with local fallbacks, waits for GBR gathering to finish, equips a selected combat job, routes to the hunted monster, supports selectable RotationSolverReborn or WrathCombo combat drivers, and resumes Vulcan automatically.",
-    "InternalName": "GBRMonsterHunter",
-    "AssemblyVersion": "0.1.7.0",
-    "RepoUrl": "https://github.com/SekhmetAnkh/GBRMonsterHunter",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
-    "Tags": [
-      "crafting",
-      "gathering",
-      "materials",
-      "navigation",
-      "combat"
-    ],
-    "CategoryTags": [
-      "crafting",
-      "gathering",
-      "utility",
-      "combat"
-    ],
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadCount": 0,
-    "LastUpdate": 1780645395,
-    "DownloadLinkInstall": "https://github.com/SekhmetAnkh/GBRMonsterHunter/releases/latest/download/GBRMonsterHunter-latest.zip",
-    "DownloadLinkTesting": "https://github.com/SekhmetAnkh/GBRMonsterHunter/releases/latest/download/GBRMonsterHunter-latest.zip",
-    "DownloadLinkUpdate": "https://github.com/SekhmetAnkh/GBRMonsterHunter/releases/latest/download/GBRMonsterHunter-latest.zip"
-  }
+    {
+        "Author":  "SekhmetAnkh",
+        "Name":  "PositionalPilot",
+        "Punchline":  "Assistive, safety-gated melee positional movement.",
+        "Description":  "Suggests or safely moves toward selected combat-source rear/flank positionals using BossMod safety and vnavmesh when explicitly enabled. Off by default, fail-closed, and no stealth or bypass behavior.",
+        "InternalName":  "PositionalPilot",
+        "AssemblyVersion":  "0.1.30.0",
+        "RepoUrl":  "https://github.com/SekhmetAnkh/PositionalPilot",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "Tags":  [
+                     "combat",
+                     "positional",
+                     "accessibility"
+                 ],
+        "CategoryTags":  [
+                             "jobs",
+                             "utility"
+                         ],
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "AcceptsFeedback":  true,
+        "DownloadCount":  1,
+        "LastUpdate":  1780643196,
+        "Changelog":  "Split repository release for PositionalPilot.",
+        "DownloadLinkInstall":  "https://github.com/SekhmetAnkh/PositionalPilot/releases/download/v0.1.30/PositionalPilot-latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/SekhmetAnkh/PositionalPilot/releases/download/v0.1.30/PositionalPilot-latest.zip",
+        "DownloadLinkTesting":  "https://github.com/SekhmetAnkh/PositionalPilot/releases/download/v0.1.30/PositionalPilot-latest.zip"
+    },
+    {
+        "Author":  "SekhmetAnkh",
+        "Name":  "GBR Monster Hunter",
+        "Punchline":  "Route to drop-only materials from crafting plans.",
+        "Description":  "Listens to GatherBuddy Reborn/Vulcan execution plans, detects missing drop-only materials using Vulcan/GatherBuddy mob-drop locations with local fallbacks, waits for GBR gathering to finish, equips a selected combat job, routes to the hunted monster, supports selectable RotationSolverReborn or WrathCombo combat drivers, and resumes Vulcan automatically.",
+        "InternalName":  "GBRMonsterHunter",
+        "AssemblyVersion":  "0.1.7.0",
+        "RepoUrl":  "https://github.com/SekhmetAnkh/GBRMonsterHunter",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "Tags":  [
+                     "gathering",
+                     "crafting",
+                     "materials",
+                     "navigation",
+                     "combat"
+                 ],
+        "CategoryTags":  [
+                             "crafting",
+                             "gathering",
+                             "utility",
+                             "combat"
+                         ],
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "AcceptsFeedback":  true,
+        "DownloadCount":  2,
+        "LastUpdate":  1780645395,
+        "DownloadLinkInstall":  "https://github.com/SekhmetAnkh/GBRMonsterHunter/releases/download/v0.1.7/GBRMonsterHunter-latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/SekhmetAnkh/GBRMonsterHunter/releases/download/v0.1.7/GBRMonsterHunter-latest.zip",
+        "DownloadLinkTesting":  "https://github.com/SekhmetAnkh/GBRMonsterHunter/releases/download/v0.1.7/GBRMonsterHunter-latest.zip"
+    }
 ]
