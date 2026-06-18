@@ -6,7 +6,7 @@
     "Description": "Suggests or safely moves toward selected combat-source rear/flank positionals using BossMod safety and vnavmesh when explicitly enabled. Off by default, fail-closed, and no stealth or bypass behavior.",
     "InternalName": "PositionalPilot",
     "AssemblyVersion": "0.1.34.0",
-    "RepoUrl": "https://github.com/Ankhito/PositionalPilot",
+    "RepoUrl": "https://github.com/SekhmetAnkh/PositionalPilot",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": [
@@ -19,7 +19,7 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "AcceptsFeedback": true,
-    "DownloadCount": 36,
+    "DownloadCount": 37,
     "LastUpdate": 1781286288,
     "DownloadLinkInstall": "https://github.com/Ankhito/PositionalPilot/releases/download/v0.1.34/PositionalPilot-latest.zip",
     "DownloadLinkUpdate": "https://github.com/Ankhito/PositionalPilot/releases/download/v0.1.34/PositionalPilot-latest.zip",
@@ -56,7 +56,7 @@
     "LoadPriority": 0,
     "AcceptsFeedback": true,
     "DownloadCount": 55,
-    "LastUpdate": 1781785823,
+    "LastUpdate": 1781788693,
     "DownloadLinkInstall": "https://github.com/Ankhito/GBRMonsterHunter/releases/download/v0.1.15.0/GBRMonsterHunter-latest.zip",
     "DownloadLinkUpdate": "https://github.com/Ankhito/GBRMonsterHunter/releases/download/v0.1.15.0/GBRMonsterHunter-latest.zip",
     "DownloadLinkTesting": "https://github.com/Ankhito/GBRMonsterHunter/releases/download/v0.1.15.0/GBRMonsterHunter-latest.zip"
