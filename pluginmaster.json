@@ -19,7 +19,7 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "AcceptsFeedback": true,
-    "DownloadCount": 44,
+    "DownloadCount": 45,
     "LastUpdate": 1781286288,
     "DownloadLinkInstall": "https://github.com/Ankhito/PositionalPilot/releases/download/v0.1.34/PositionalPilot-latest.zip",
     "DownloadLinkUpdate": "https://github.com/Ankhito/PositionalPilot/releases/download/v0.1.34/PositionalPilot-latest.zip",
@@ -86,5 +86,31 @@
     "DownloadLinkInstall": "https://github.com/Ankhito/OpenerPilot/releases/download/v0.2.15/OpenerPilot-latest.zip",
     "DownloadLinkUpdate": "https://github.com/Ankhito/OpenerPilot/releases/download/v0.2.15/OpenerPilot-latest.zip",
     "DownloadLinkTesting": "https://github.com/Ankhito/OpenerPilot/releases/download/v0.2.15/OpenerPilot-latest.zip"
+  },
+  {
+    "Author": "Ankhito",
+    "Name": "Currency Profit Scanner",
+    "Punchline": "Ranks verified non-gil currency vendor items by recent Universalis sales.",
+    "Description": "Read-only MVP scanner for profitable non-gil currency vendor items. Uses Universalis market data and does not automate game interactions.",
+    "InternalName": "CurrencyProfitScanner",
+    "AssemblyVersion": "0.1.0.0",
+    "RepoUrl": "https://github.com/Ankhito/Currency-Profit-Scanner",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "market",
+      "currency",
+      "universalis"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "LastUpdate": 1781888185,
+    "DownloadLinkInstall": "https://github.com/Ankhito/Currency-Profit-Scanner/releases/download/v0.1.0/CurrencyProfitScanner-latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Ankhito/Currency-Profit-Scanner/releases/download/v0.1.0/CurrencyProfitScanner-latest.zip",
+    "DownloadLinkTesting": "https://github.com/Ankhito/Currency-Profit-Scanner/releases/download/v0.1.0/CurrencyProfitScanner-latest.zip"
   }
 ]
