@@ -31,7 +31,7 @@
     "Punchline": "Search, route, and hunt drop-only materials.",
     "Description": "Standalone monster-drop hunting and routing using local LuminaSupplemental data, manual hunt lists, vnavmesh navigation, mount support, and configurable combat handoff.",
     "InternalName": "Huntsman",
-    "AssemblyVersion": "0.1.17.0",
+    "AssemblyVersion": "0.1.18.0",
     "RepoUrl": "https://github.com/Ankhito/Huntsman",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -56,10 +56,10 @@
     "LoadPriority": 0,
     "AcceptsFeedback": true,
     "DownloadCount": 55,
-    "LastUpdate": 1781941297,
-    "DownloadLinkInstall": "https://github.com/Ankhito/Huntsman/releases/download/v0.1.17.0/Huntsman-latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Ankhito/Huntsman/releases/download/v0.1.17.0/Huntsman-latest.zip",
-    "DownloadLinkTesting": "https://github.com/Ankhito/Huntsman/releases/download/v0.1.17.0/Huntsman-latest.zip"
+    "LastUpdate": 1781986034,
+    "DownloadLinkInstall": "https://github.com/Ankhito/Huntsman/releases/download/v0.1.18.0/Huntsman-latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Ankhito/Huntsman/releases/download/v0.1.18.0/Huntsman-latest.zip",
+    "DownloadLinkTesting": "https://github.com/Ankhito/Huntsman/releases/download/v0.1.18.0/Huntsman-latest.zip"
   },
   {
     "Author": "Ankhito",
@@ -90,10 +90,10 @@
   {
     "Author": "Ankhito",
     "Name": "Currency Profit Scanner",
-    "Punchline": "Ranks verified non-gil currency vendor items by recent Universalis sales.",
-    "Description": "Read-only MVP scanner for profitable non-gil currency vendor items. Uses Universalis market data and does not automate game interactions.",
+    "Punchline": "Spend non-gil currencies where the market actually moves.",
+    "Description": "Read-only currency profit scanner for tomestones, scrips, seals, MGP, hunt currencies, FATE gemstones, and other spendable currencies. Uses Universalis sales, supply, and stale-data checks to rank marketable rewards by practical gil profit.",
     "InternalName": "CurrencyProfitScanner",
-    "AssemblyVersion": "0.1.3.0",
+    "AssemblyVersion": "0.1.5.0",
     "RepoUrl": "https://github.com/Ankhito/Currency-Profit-Scanner",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -108,9 +108,9 @@
     "LoadPriority": 0,
     "AcceptsFeedback": true,
     "DownloadCount": 6,
-    "LastUpdate": 1781895311,
-    "DownloadLinkInstall": "https://github.com/Ankhito/Currency-Profit-Scanner/releases/download/v0.1.3/CurrencyProfitScanner-latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Ankhito/Currency-Profit-Scanner/releases/download/v0.1.3/CurrencyProfitScanner-latest.zip",
-    "DownloadLinkTesting": "https://github.com/Ankhito/Currency-Profit-Scanner/releases/download/v0.1.3/CurrencyProfitScanner-latest.zip"
+    "LastUpdate": 1781986034,
+    "DownloadLinkInstall": "https://github.com/Ankhito/Currency-Profit-Scanner/releases/download/v0.1.5/CurrencyProfitScanner-latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Ankhito/Currency-Profit-Scanner/releases/download/v0.1.5/CurrencyProfitScanner-latest.zip",
+    "DownloadLinkTesting": "https://github.com/Ankhito/Currency-Profit-Scanner/releases/download/v0.1.5/CurrencyProfitScanner-latest.zip"
   }
 ]
