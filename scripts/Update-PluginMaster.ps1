@@ -307,7 +307,9 @@ foreach ($plugin in $config) {
             "Tags",
             "CategoryTags",
             "IsHide",
-            "IsTestingExclusive"
+            "IsTestingExclusive",
+            "_Dip17Channel",
+            "TestingDalamudApiLevel"
         )) {
             if ($field -in @("AssemblyVersion", "DalamudApiLevel")) {
                 Set-EntryValue $entry $field (Merge-Value $releaseManifest $sourceManifest $existing $field)

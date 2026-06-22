@@ -54,6 +54,8 @@
     "metadata": {
       "Author": "Ankhito",
       "IsTestingExclusive": true,
+      "_Dip17Channel": "testing-live",
+      "TestingDalamudApiLevel": 15,
       "Tags": [
         "pmp",
         "transfer",
