@@ -19,7 +19,7 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "AcceptsFeedback": true,
-    "DownloadCount": 73,
+    "DownloadCount": 74,
     "LastUpdate": 1781286288,
     "DownloadLinkInstall": "https://github.com/Ankhito/PositionalPilot/releases/download/v0.1.34/PositionalPilot-latest.zip",
     "DownloadLinkUpdate": "https://github.com/Ankhito/PositionalPilot/releases/download/v0.1.34/PositionalPilot-latest.zip",
@@ -107,7 +107,7 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "AcceptsFeedback": true,
-    "DownloadCount": 18,
+    "DownloadCount": 19,
     "LastUpdate": 1782037249,
     "DownloadLinkInstall": "https://github.com/Ankhito/Currency-Profit-Scanner/releases/download/v0.1.14/CurrencyProfitScanner-latest.zip",
     "DownloadLinkUpdate": "https://github.com/Ankhito/Currency-Profit-Scanner/releases/download/v0.1.14/CurrencyProfitScanner-latest.zip",
@@ -141,8 +141,8 @@
     "LoadPriority": 0,
     "AcceptsFeedback": true,
     "DownloadCount": 7,
-    "LastUpdate": 1782242297,
-    "Changelog": "Improves market staleness and undercut scoring with quality-aware price fallback, outlier-resistant references, and 7-day velocity.",
+    "LastUpdate": 1782243075,
+    "Changelog": "- Improve profitability/staleness scoring after reviewing Allagan Market's undercut logic.\\n- Use matching-quality listings and sale history with fallback only when matching quality has no data.\\n- Ignore extreme low listing outliers when choosing the reference undercut price.\\n- Add 7-day velocity, market data age, and stale-sale penalties so slow-but-real markets can pass while dead markets are filtered.",
     "DownloadLinkInstall": "https://github.com/Ankhito/AutomarketPro/releases/download/v1.0.0.37/AutomarketPro-latest.zip",
     "DownloadLinkUpdate": "https://github.com/Ankhito/AutomarketPro/releases/download/v1.0.0.37/AutomarketPro-latest.zip",
     "DownloadLinkTesting": "https://github.com/Ankhito/AutomarketPro/releases/download/v1.0.0.37/AutomarketPro-latest.zip"
@@ -175,7 +175,7 @@
     "LoadPriority": 0,
     "AcceptsFeedback": true,
     "DownloadCount": 12,
-    "LastUpdate": 1782242200,
+    "LastUpdate": 1782240614,
     "Changelog": "Testing release. Keeps Penumbra import as an explicit user action, refreshes inbox without overwriting receive/import status, delays Penumbra export cleanup until send-request creation succeeds, and clears automatic receive secrets after decrypt.",
     "DownloadLinkInstall": "https://github.com/Ankhito/pmpshare/releases/download/v0.1.13-testing/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Ankhito/pmpshare/releases/download/v0.1.13-testing/latest.zip",
@@ -183,7 +183,3 @@
     "TestingAssemblyVersion": "0.1.13.0"
   }
 ]
-
-
-
-
