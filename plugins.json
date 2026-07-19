@@ -49,29 +49,5 @@
         "Testing"
       ]
     }
-  },
-  {
-    "owner": "Ankhito",
-    "repo": "KinkySync",
-    "sourceRef": "testing",
-    "manifestPath": "plugin/KinkySync.Plugin/KinkySync.Plugin.json",
-    "assetName": "latest.zip",
-    "testingOnly": true,
-    "metadata": {
-      "Author": "Ankhito",
-      "IsTestingExclusive": true,
-      "_Dip17Channel": "testing-live",
-      "TestingDalamudApiLevel": 15,
-      "Tags": [
-        "animation",
-        "penumbra",
-        "sync",
-        "testing"
-      ],
-      "CategoryTags": [
-        "Utility",
-        "Testing"
-      ]
-    }
   }
 ]
